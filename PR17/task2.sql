@@ -1,0 +1,3 @@
+-- 2
+ALTER TABLE studentpasses1
+ALTER COLUMN PassDays TYPE SMALLINT;
