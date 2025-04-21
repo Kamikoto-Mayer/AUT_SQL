@@ -1,0 +1,2 @@
+ALTER TABLE students
+ADD isdeleted BOOLEAN DEFAULT FALSE;
